@@ -2,6 +2,12 @@
 
 Bem-vindo(a) a este repositório sobre **algoritmos de ordenação**! 🎉 Aqui exploramos os métodos mais conhecidos de ordenação e aprendemos como funcionam na prática. Todas as implementações foram feitas na linguagem **C**.
 
+## Organização
+📂 - Código inteiro com o menu (OPTE POR RODAR ESSE) 
+📂 - Código com Selection
+📂 - Código com o Insertion Sort
+📂 - Código com o Quick Sort
+
 ## 🧐 Por que classificar?
 
 Para realizar pesquisas (como a busca binária), é essencial que os dados estejam **em ordem crescente**. Para isso, utilizamos algoritmos de **classificação/ordenação**.
